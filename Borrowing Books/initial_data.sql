@@ -1,7 +1,3 @@
--- initial data
--- AUTHOR: Suryansh Khranger
-
-
 /* Relational Schema
 members (email, passwd, name, byear, faculty)
 books (book_id, title, author, pyear)
